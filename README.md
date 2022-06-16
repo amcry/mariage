@@ -1,6 +1,6 @@
 ## Mariage
 
-Ceci est la projet spring boot sur dans le contexte d'un mariage.
+Ceci est la projet spring boot dans le contexte d'un mariage.
 
 
 ## Créer le projet
